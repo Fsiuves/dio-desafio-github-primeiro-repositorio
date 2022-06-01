@@ -7,3 +7,4 @@ Git status - Ver o que precisa de commit
 Git Add . ou -a  - enviar todos os arquivos para o Git
 Git commit -m - para efetivar o arquivo no Git
 Git push origin main - Para sincronizar os arquivos comitados na nuvem
+Git clone + a URL clona o repositório da nuvem para a sua máquina
