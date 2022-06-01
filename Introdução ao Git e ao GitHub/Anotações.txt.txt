@@ -1,6 +1,9 @@
+
 Link para Download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 Git Init - iniciar o repositório
 Git status - Ver o que precisa de commit
 Git Add . ou -a  - enviar todos os arquivos para o Git
+Git commit -m - para efetivar o arquivo no Git
+Git push origin main - Para sincronizar os arquivos comitados na nuvem
